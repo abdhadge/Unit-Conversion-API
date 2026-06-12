@@ -88,6 +88,8 @@ Runs on `http://localhost:5080`. Swagger UI at `/swagger`.
 
 ## Tests
 
+API and query are tested in postman and swagger.
+
 ```bash
 dotnet test
 ```
